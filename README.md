@@ -31,7 +31,8 @@ Users should be able to:
 
 ### Screenshots
 
-![](https://drive.google.com/file/d/1vacCdu5HTc39VXIyVCfAhZS8eTKlcHhh/view?usp=sharing)
+![](https://drive.google.com/uc?export=view&id=1422Q_b021CXeY6pScasEQ7tFJB_N3yqc
+)
 <![](https://drive.google.com/uc?export=view&id=1vacCdu5HTc39VXIyVCfAhZS8eTKlcHhh
 )
 
@@ -47,5 +48,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Emmanuel Donkor]((https://github.com/emmanueldonkor/Multiplayer-Dice-Game/)
+- Website - [Emmanuel Donkor](https://github.com/emmanueldonkor/Multiplayer-Dice-Game/)
 - LinkedIn- [EmmDonkor](https://www.linkedin.com/in/donkor-emmanuel-56b05b219/)

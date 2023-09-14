@@ -24,15 +24,16 @@ Users should be able to:
 - Role the Dice to store each players score on the dashboard
 
 ### Features
-Multiplayer dice game for Windows.
-Simple and intuitive user interface.
-Roll virtual dice with your friends.
-Interactive and engaging gameplay.
+- Multiplayer dice game for Windows.
+- Simple and intuitive user interface.
+- Roll virtual dice with your friends.
+- Interactive and engaging gameplay.
 
 ### Screenshots
 
 ![](https://drive.google.com/file/d/1vacCdu5HTc39VXIyVCfAhZS8eTKlcHhh/view?usp=sharing)
-<![](https://drive.google.com/file/d/1422Q_b021CXeY6pScasEQ7tFJB_N3yqc/view?usp=sharing)
+<![](https://drive.google.com/uc?export=view&id=1vacCdu5HTc39VXIyVCfAhZS8eTKlcHhh
+)
 
 ### Links
 
